@@ -1,0 +1,195 @@
+body{
+    background-color:white;
+    color:black;
+}
+.mydark{
+    background-color:black;
+    color:white;
+}
+
+/*header*/
+.update{
+    background-color: #2c2cc1cf !important;
+    border: none !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff !important;
+}
+
+/*body*/
+
+#bodymain{
+    width:100%;
+}
+
+/*coupon start*/
+#coupon{
+    background-color:white;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 30%;
+    z-index: 100;
+    position: absolute;
+}
+
+.textcont{
+    background: linear-gradient(45deg, #ef0c0c, transparent);
+    display: inline-block;
+    width: 92%;
+}
+
+.I{
+    color:black;
+    float: right;
+}
+
+.disscount{
+    background-image: url(images/cars.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: right;
+    background-size: 80%;
+}
+
+.disscount>img{
+    width: 80px;
+    margin-top: -133px;
+}
+
+.II{
+    color: red;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.III{
+    color:orange;
+    font-size:35px;
+    font-style: italic;
+}
+
+.IV{
+    color: orange;
+    font-size: 35px;
+    font-style: italic;
+    margin-top: 70px;
+}
+
+.offers{
+    background-image: url(images/service.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    width: 100%;
+}
+
+.offers > p{
+    margin-top: 30%;
+    margin-left: 57%;
+    background: linear-gradient(0deg, orange, transparent);
+}
+
+.price{
+    background: linear-gradient(45deg, red, transparent);
+    width: 50%;
+    color:white;
+    font-size:25px;
+}
+
+.off{
+    background: linear-gradient(45deg, black, transparent);
+    color: white;
+    width: 30%;
+    margin-left: 20%;
+}
+
+.last{
+    background: linear-gradient(45deg, #ef0c0c, transparent);
+}
+
+/*coupon end*/
+
+#olximg{
+    width: 100%;
+    margin-top:-20px;
+    height: 250px;
+    background-color: #0b0bc3bf;
+}
+
+#olximg > img{
+    width: 60%;
+    height: 380px;
+    margin-left: 25%;
+}
+
+#main{
+    width:100%;  
+}
+
+
+
+.size >img {
+    height: 300px !important;
+}
+
+.size2 >img{
+    height:300px !important;
+    width:100% !important;
+}
+
+.size3>img{
+    height: 300px !important;
+    width: 55% !important;
+    float: right;
+}
+
+#container {
+    margin-top:20px;
+}
+
+#containerI> a> button, #containerII >a>button, #containerIII >a>button, #containerIV >a> button{
+    height: 100px;
+    width: 100%;
+    border-radius: 50px;
+    font-size: 40px !important;
+}
+
+#containerI{
+    display:inline-block;
+    width:20%;
+    margin-left:2%;
+}
+
+#containerII{
+    display:inline-block;
+    width:20%;
+    margin-left:5%;
+}
+
+#containerIII{
+    display:inline-block;
+    width:20%;
+    margin-left:5%;
+}
+
+
+#containerIV{
+    display:inline-block;
+    width:20%;
+    margin-left:5%;
+}
+
+
+/*footer*/
+
+h2{
+    text-align:center;
+}
+
+@media screen and (max-width:700px){
+    navbar-right {
+        float: right!important;
+        margin-right: -15px;
+    }
+}
