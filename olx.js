@@ -5,7 +5,7 @@ const changeMode = () => {
 }
 
 
-
+  /*coupon  */
 function loadcoupon()
 {
     document.getElementById("coupon").style.visibility = 'visible';
@@ -18,8 +18,3 @@ function closecoupon()
 }
 
 
-function myFunction()
-{
-    let popup = document.getElementById("popuscontainer");
-    popup.classList.toggle("show");
-}

@@ -183,7 +183,43 @@ body{
 
 /*footer*/
 
-h2{
+#footcontainer{
+    width:100%;
+    background-color: mintcream;
+}
+
+.popularcont , .trendingcont , .aboutcont{
+    Width:20%;
+    display: inline-block;
+}
+
+.followcont{
+    Width:39%;
+    text-align: center;
+    display: inline-block;
+}
+
+h4{
+    margin-left: 15px;
+    font-family: system-ui !important;
+}
+
+.popularcont>p, .trendingcont>p, .aboutcont>p{
+    margin-left: 15px;
+}
+
+.facebook, .instagram, .github{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.developer{
+    Width: 100%;
+    background-color: lightslategray;
+}
+
+
+.Developer>h2{
     text-align:center;
 }
 

@@ -1,0 +1,22 @@
+#bodycontainer{
+    background-image: url(olx.png);
+}
+
+#filtercont{
+    width:100%;
+    height:200px;
+    border:2px solid black;
+}
+
+#maincont{
+    width:100%;
+    border:2px solid red;
+
+}
+
+.container{
+    width:20%;
+    height:100px;
+    display: inline-block;
+    box-shadow: 2px 5px 2px;
+}
