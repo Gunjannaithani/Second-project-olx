@@ -22,6 +22,7 @@
                 <div id="devNav" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <ion-icon name="contrast-outline"></ion-icon>
+                        <button onClick="changeMode()" class="changmode" >ⓜ</button>
                         <li><a href="">Home</a></li>
                         <li><a href="">About</a></li>
                         <li><a href="">Contact</a></li>
@@ -34,7 +35,10 @@
                         </li>
                         <li>
                             <a href="#">
-                                <span class="glyphicon glyphicon-log-in"></span> Login
+                                <span class="glyphicon glyphicon-log-in" class="openbtn" onclick="openNav()" ></span> Login
+                                <div id="mySidebar" class="sidebar">
+                                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+                                </div>
                             </a>
                         </li>
                     </ul>
