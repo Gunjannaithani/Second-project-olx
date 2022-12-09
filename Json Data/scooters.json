@@ -1,0 +1,67 @@
+{
+    "Scooters":
+    [
+        {
+            "id":1,
+            "Scooters Brand_id":1,
+            "category_id":3,
+            "name":" Honda Activa" 
+        },
+
+        {
+            "id":2,
+            "Scooters Brand_id":1,
+            "category_id":3,
+            "name":"Honda Aviator" 
+        },
+
+        {
+            "id":3,
+            "Scooters Brand_id":1,
+            "category_id":3,
+            "name":" Honda Dio" 
+        },
+
+        {
+            "id":4,
+            "Scooters Brand_id":1,
+            "category_id":3,
+            "name":" Honda Others" 
+        },
+
+        {
+            "id":5,
+            "Scooters Brand_id":2,
+            "category_id":3,
+            "name":"Hero Pleasure" 
+        },
+
+        {
+            "id":6,
+            "Scooters Brand_id":2,
+            "category_id":3,
+            "name":"Hero Destini 125" 
+        },
+
+        {
+            "id":7,
+            "Scooters Brand_id":2,
+            "category_id":3,
+            "name": 
+            [
+                {
+                    "name":"Hero Maestro Edge",
+                    "id":1,
+                    "model":"Hero Maestro Edge 110"
+                },
+
+                {
+                    "name":"Hero Maestro Edge",
+                    "id":2,
+                    "model":"Hero Maestro Edge 125"
+                }
+            ]
+        }
+    ]
+}
+

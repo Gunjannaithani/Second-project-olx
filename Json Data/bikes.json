@@ -1,0 +1,213 @@
+{
+    "Bikes":
+    [
+        {
+            "id":1,
+            "Bike Brand_id":1,
+            "category_id":2,
+            "name":
+            [
+                {
+                    "name":"Bajaj",
+                    "id":1,
+                    "model":"Pulsar 125"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":2,
+                    "model":"Pulsar 135"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":3,
+                    "model":"Pulsar 150"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":4,
+                    "model":"Pulsar 180"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":5,
+                    "model":"Pulsar Ns 200"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":6,
+                    "model":"Pulsar As 200"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":7,
+                    "model":"Pulsar Rs 200"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":8,
+                    "model":"Pulsar N 160"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":9,
+                    "model":"Pulsar 220"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":10,
+                    "model":"Pulsar F 250"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":11,
+                    "model":"Pulsar N 250"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":12,
+                    "model":"Dominar 250"
+                },
+
+                {
+                    "name":"Bajaj",
+                    "id":13,
+                    "model":"Dominar 400"
+                }
+            ]
+        },
+
+        {
+            "id":2,
+            "Bike Brand_id":1,
+            "category_id":2,
+            "name":"Bajaj Discover" 
+        },
+
+        {
+            "id":3,
+            "Bike Brand_id":1,
+            "category_id":2,
+            "name":" Bajaj Avenger" 
+        },
+
+        {
+            "id":4,
+            "Bike Brand_id":1,
+            "category_id":2,
+            "name":" Bajaj Platina" 
+        },
+
+        {
+            "id":5,
+            "Bike Brand_id":1,
+            "category_id":2,
+            "name":" Bajaj CT 100" 
+        },
+
+        {
+            "id":6,
+            "Bike Brand_id":1,
+            "category_id":2,
+            "name":"Bajaj Others" 
+        },
+
+        {
+            "id":7,
+            "Bike Brand_id":2,
+            "category_id":2,
+            "name":"Royal Enfield Himalayan" 
+        },
+
+        {
+            "id":8,
+            "Bike Brand_id":2,
+            "category_id":2,
+            "name":
+            [
+                {
+                    "name":"350",
+                    "id":1,
+                    "model":"Hunter 350"
+                },
+
+                {
+                    "name":"350",
+                    "id":2,
+                    "model":"Classic 350"
+                },
+
+                {
+                    "name":"350",
+                    "id":3,
+                    "model":"Meteor 350"
+                },
+
+                {
+                    "name":"350",
+                    "id":4,
+                    "model":"Bullet 350"
+                }
+            ] 
+        },
+
+        {
+            "id":9,
+            "Bike Brand_id":2,
+            "category_id":2,
+            "name":
+            [
+                {
+                    "name":"650",
+                    "id":1,
+                    "model":"Continental GT 650"
+                },
+
+                {
+                    "name":"650",
+                    "id":2,
+                    "model":"Interceptor 650"
+                } 
+                
+            ] 
+        },
+
+        {
+            "id":10,
+            "Bike Brand_id":3,
+            "category_id":2,
+            "name":"Hero Splendor" 
+        },
+
+        {
+            "id":11,
+            "Bike Brand_id":3,
+            "category_id":2,
+            "name":"Hero HF Deluxe" 
+        },
+
+        {
+            "id":12,
+            "Bike Brand_id":3,
+            "category_id":2,
+            "name":"Hero Xtreme 160R" 
+        },
+
+        {
+            "id":13,
+            "Bike Brand_id":3,
+            "category_id":2,
+            "name":"Hero Glamour" 
+        }
+    ]
+}

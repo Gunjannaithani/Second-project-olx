@@ -1,0 +1,294 @@
+{
+    "cars":
+    [          
+        {
+            "id":1,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Nexon",
+            "type": "SUV"
+            
+        },
+
+        {
+            "id":2,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hexa",
+            "type": "SUV"
+        },
+        
+        {
+            "id":3,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Punch",
+            "type": "SUV"
+        },
+
+        {
+            "id":4,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Harrier",
+            "type": "SUV"
+        },
+
+        {
+            "id":5,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Safari",
+            "type": "SUV"
+        },
+    
+        {
+            "id":6,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Altroz",
+            "type": "Hatchback"
+        },
+
+        {
+            "id":7,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Tiago",
+            "type": "Hatchback"
+        },
+
+        {
+            "id":8,
+            "Car Brand_id":1,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Tigor",
+            "type": "Sedan"
+        },
+          
+        {
+            "id":9,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra Alturas G4",
+            "type": "SUV"
+        },
+
+        {
+            "id":10,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra Bolero",
+            "type": "SUV"
+        },
+
+        {
+            "id":11,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra KUV100",
+            "type": "SUV"
+        },
+        
+        {
+            "id":12,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra Marazzo",
+            "type": "SUV"
+        },
+
+        {
+            "id":13,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra Scorpio",
+            "type": "SUV"
+        },
+
+        {
+            "id":14,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra Thar",
+            "type": "SUV"
+        },
+
+        {
+            "id":15,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra XUV300",
+            "type": "SUV"
+        },
+
+        {
+            "id":16,
+            "Car Brand_id":2,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra XUV700",
+            "type": "SUV"
+        },
+            
+        {
+            "id":17,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Creta",
+            "type": "SUV"
+        },
+
+        {
+            "id":18,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Venue",
+            "type": "SUV"
+        },
+
+        {
+            "id":19,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Mahindra XUV300",
+            "type": "SUV"
+        },
+
+        {
+            "id":20,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Verna",
+            "type": "Sedan"
+        },
+
+        {
+            "id":21,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Aura",
+            "type": "Sedan"
+        },
+
+        {
+            "id":22,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai i20",
+            "type": "Hatchback"
+        },
+
+        {
+            "id":23,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Alcazar",
+            "type": "SUV"
+        },
+
+        {
+            "id":24,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Tucson",
+            "type": "SUV"
+        },
+
+        {
+            "id":25,
+            "Car Brand_id":3,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Hyundai Grand i10 Nios",
+            "type": "Hatchback"
+        },
+            
+        {
+            "id":26,
+            "Car Brand_id":4,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Honda City",
+            "type": "Sedan"
+        },
+
+        {
+            "id":27,
+            "Car Brand_id":4,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Honda Amaze",
+            "type": "Sedan"
+        },
+
+        {
+            "id":28,
+            "Car Brand_id":4,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Honda WR-V",
+            "type": "SUV"
+        },
+
+        {
+            "id":29,
+            "Car Brand_id":4,
+            "category_id":1,
+            "category": "Cars",
+            "name":"Honda Jazz",
+            "type": "SUV"
+        },
+            
+        {
+            "id":30,
+            "Car Brand_id":5,
+            "category_id":1,
+            "category": "Cars",
+            "name":"MG Hector",
+            "type": "SUV"
+        },
+
+        {
+            "id":31,
+            "Car Brand_id":5,
+            "category_id":1,
+            "category": "Cars",
+            "name":"MG Astor",
+            "type": "SUV"
+        },
+
+        {
+            "id":32,
+            "Car Brand_id":5,
+            "category_id":1,
+            "category": "Cars",
+            "name":"MG Gloster",
+            "type": "SUV"
+        }
+    ]
+
+}

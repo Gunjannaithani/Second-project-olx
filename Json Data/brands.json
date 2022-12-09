@@ -1,0 +1,160 @@
+{
+
+    "Car Brand":
+    [
+
+        {
+            "id":1,
+            "name": "Tata Motors"
+        },
+
+        {
+            "id":2,
+            "name": "Mahindra & Mahindra" 
+        },
+
+        {
+            "id":3,
+            "name": "Hyundai"
+        },
+
+        {
+            "id":4,
+            "name": "Honda"
+        },
+
+        {
+            "id":5,
+            "name": "MG Motor"
+        },
+
+        {
+            "id":6,
+            "name": "Renault"
+        },
+
+        {
+            "id":7,
+            "name": "Toyota"
+        },
+
+        {
+            "id":8,
+            "name": "Kia"
+        },
+
+        {
+            "id":9,
+            "name": "Maruti Suzuki"
+        },
+
+        {
+            "id":10,
+            "name": "Skoda"
+        },
+
+        {
+            "id":11,
+            "name": "Other Brands"
+        }
+
+    ],
+
+    "Bikes Brand":
+    [
+        {
+            "id": 1,
+            "name":"Bujaj"
+        },
+
+        {
+            "id": 2,
+            "name":"Royal Enfield "
+        },
+
+        {
+            "id": 3,
+            "name":"Hero"
+        },
+
+        {
+            "id": 4,
+            "name":"TVS"
+        },
+
+        {
+            "id": 5,
+            "name":"Yamaha"
+        },
+
+        {
+            "id": 6,
+            "name":"Honda"
+        },
+
+        {
+            "id": 7,
+            "name":"HondaHero Honda"
+        },
+
+        {
+            "id": 8,
+            "name":"Other Brands"
+        }
+
+    ],
+
+    "Scooters Brands":
+    [
+        {
+            "id":1,
+            "name":"Honda"
+        },
+
+        {
+            "id":2,
+            "name":"Hero "
+        },
+
+        {
+            "id":3,
+            "name":"Mahindra"
+        },
+
+        {
+            "id":4,
+            "name":"Suzuki"
+        },
+
+        {
+            "id":5,
+            "name":"TVS"
+        },
+
+        {
+            "id":6,
+            "name":"Other Brands"
+        }
+    ],
+
+    "Electronics items":
+    [
+        {
+            "id":1,
+            "name":"Mobiles"
+        },
+
+        {
+            "id":2,
+            "name":"Laptops"
+        },
+
+        {
+            "id":3,
+            "name":"Other items"
+        }
+    ]
+
+}
+
+    
