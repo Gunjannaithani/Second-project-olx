@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1 ,
+        "category": "Cars"
+    },
+
+    {
+        "id": 2,
+        "category": "Bikes"
+    },
+
+    {
+        "id": 3,
+        "category": "Scooters"
+    },
+
+    {
+        "id": 4,
+        "category": "Electronics"
+    }
+
+]
