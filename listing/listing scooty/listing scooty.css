@@ -1,22 +1,75 @@
-
-#filtercont{
+.header{
     width:100%;
-    height:200px;
-    border:2px solid black;
+    height:100px;
+    box-shadow:0px 0px 10px;
 }
 
-#maincont{
-    width:100%;
-    border:2px solid red;
+.filtercont{
+    width: 25%;
+    height: 1000px;
+    display: inline-block;
+    border:1px solid black;
+}
 
+.iteamcont{
+    width:74%;
+    height: 1000px;
+    position: absolute;
+    display: inline-block;
+    border:1px solid red;
 }
 
 .container{
     margin-left: 8px !important;
     margin-top:35px;
-    width: 24% !important;
+    width: 32% !important;
     height: 300px;
     display: inline-block;
     box-shadow: 5px 10px 15px;
     background-color: white;
+}
+
+
+
+
+/*footer*/
+
+#footcontainer{
+    width:100%;
+    background-color: mintcream;
+}
+
+.popularcont , .trendingcont , .aboutcont{
+    Width:20%;
+    display: inline-block;
+}
+
+.followcont{
+    Width:39%;
+    text-align: center;
+    display: inline-block;
+}
+
+h4{
+    margin-left: 15px;
+    font-family: system-ui !important;
+}
+
+.popularcont>p, .trendingcont>p, .aboutcont>p{
+    margin-left: 15px;
+}
+
+.facebook, .instagram, .github{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.developer{
+    Width: 100%;
+    background-color: lightslategray;
+}
+
+
+.Developer>h2{
+    text-align:center;
 }
