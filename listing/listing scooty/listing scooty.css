@@ -1,27 +1,137 @@
+/*------header section start -------*/
 .header{
     width:100%;
-    height:100px;
+    height:60px;
     box-shadow:0px 0px 10px;
 }
 
+.header > img{
+    width: 20%;
+    padding-left: 2%;
+    height: 100px;
+}
+
+.btnsell{
+    position: absolute;
+    margin: 5px 15px 0px;
+    padding: 15px 15px 10px;
+    border-radius: 50px;
+    border-width: medium;
+    border-inline-start-color: orange;
+    border-inline-end-color: yellow;
+    border-block-end-color: red;
+    border-block-start-color: blue;
+    color: black;
+    font-weight: bold;
+}
+
+.glyphicon-log-in{
+    font-size: 20px;
+    float:right;
+    margin: 1% 3%;
+}
+
+/*-------header section end -----*/
+/*------filter section start ----*/
 .filtercont{
     width: 25%;
     height: 1000px;
     display: inline-block;
-    border:1px solid black;
 }
 
+.locationbtn,.BMbtn,.budgetbtn,.yearbtn,.fuelbtn{
+    background: transparent;
+    width: 100%;
+    margin: 15px 2px;
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
+
+#locations{
+    width: 100%;
+    height: 200px;
+    overflow: auto;
+}
+
+.searchBM > input{
+    width: 98%;
+    height: 4%;
+    margin-left: 2%;
+}
+
+.indiacitys>li{
+    font-size:20px ;
+}
+
+.indiacitys>li>a{
+    color:black;
+}
+
+.listcitys>li{
+    font-size:18px;
+}
+
+.listcitys>li>a{
+    color:black;
+}
+
+.tata,.hyundai,.mahindra,.honda,.toyota,.marutisuzuki{
+    width: 95px;
+    height: 80px;
+    margin: 5px 3px;
+    display: inline-block;
+    border-radius: 20%;
+    border: 1px solid black;
+}
+
+.tata>img{
+    width: 100%;
+    height: 100%;
+}
+
+.hyundai>img{
+    width: 100%;
+    height: 100%;
+}
+
+.mahindra>img{
+    width: 100%;
+    height: 100%;
+}
+
+.honda>img{
+    width: 100%;
+    height: 100%;
+}
+
+.toyota>img{
+    width: 100%;
+    height: 100%;
+}
+
+.marutisuzuki>img{
+    width: 100%;
+    height: 100%;
+}
+
+.allbrand{
+    border-top:1px solid black;
+}
+
+
+/*-------filter section end -----*/
+/*----iteam section start-------*/
 .iteamcont{
     width:74%;
     height: 1000px;
     position: absolute;
     display: inline-block;
-    border:1px solid red;
 }
 
 .container{
     margin-left: 8px !important;
-    margin-top:35px;
     width: 32% !important;
     height: 300px;
     display: inline-block;
@@ -29,10 +139,10 @@
     background-color: white;
 }
 
+/*--------iteam section end----*/
 
 
-
-/*footer*/
+/*---------footer-----------*/
 
 #footcontainer{
     width:100%;

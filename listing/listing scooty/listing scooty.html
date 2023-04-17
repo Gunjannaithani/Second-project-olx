@@ -1,6 +1,9 @@
 <html>
     <head>
-        <link href="listing scooty.css" rel="stylesheet" type="text/css"/>
+        <link href="listing car.css" rel="stylesheet" type="text/css"/>
+        <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -9,14 +12,87 @@
     
     <body> 
         <div id="maincont">
+        <!--------------------------- Header section start  ------------------------>
             <div class="header">
+                <img src="https://i.ibb.co/hRRYG26/olx.png">
+                
+                <a href="" >
+                    <button class="btnsell" > <i class="fa-solid fa-plus"></i> SELL</button>
+                </a>
 
+                <a href="#">
+                    <span class="glyphicon glyphicon-log-in"> LogIn</span>
+                    
+                </a>
+    
             </div>
-
+        <!-----------------------------Header section end -------------------------->
+        <!-----------------------------Filter section start ------------------------>
             <div class="filtercont">
 
-            </div>
+                <div class="locationbtn" data-toggle="collapse" data-target="#locations">LOCATION</div>
+                <div id="locations" class="collapse in">
+                    <ul class="indiacitys" >
+                        <li><a href="" >India</a></li>
+                        <ul class="listcitys">
+                            <li><a href="" >Maharashtra</a></li>
+                            <li><a href="" >Tamil Nadu </a></li>
+                            <li><a href="" > Kerala </a></li>
+                            <li><a href="" >Uttar Pradesh </a></li>
+                            <li><a href="" > Delhi</a></li>
+                            <li><a href="" > Karnataka</a></li>
+                            <li><a href="" >Gujarat</a></li>
+                            <li><a href="" >Telangana</a></li>
+                            <li><a href="" >  Punjab </a></li>
+                            <li><a href="" >Haryana</a></li>
+                            <li><a href="" >Madhya Pradesh </a></li>
+                            <li><a href="" >Andhra Pradesh </a></li>
+                            <li><a href="" >West Bengal </a></li>
+                            <li><a href="" >Rajasthan </a></li>
+                            <li><a href="" >Chandigarh  </a></li>
+                            <li><a href="" >Assam </a></li>
+                            <li><a href="" >Jammu & Kashmir </a></li>
+                            <li><a href="" >Chhattisgarh  </a></li>
+                            <li><a href="" >Bihar </a></li>
+                            <li><a href="" >Uttaranchal  </a></li>
+                        </ul>
+                    </ul>
+                </div>
 
+                <div class="BMbtn" data-toggle="collapse" data-target="#BM">BRAND AND MODEL</div>
+                <div id="BM" class="collapse in ">
+                   <div class="searchBM">
+                    <input type="text"  placeholder="Brand And Models" >
+                                      
+                   </div>
+
+                   <h4>PopularBrand</h4>
+                   <div class="popularbrand">
+                    
+                        <div class="allbrand">
+                            <h4>All Brand</h4>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" >Mahindra</a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                            <li><a href="" ></a></li>
+                        </div>
+
+                    </div>    
+                </div>
+
+                <div class="fuelbtn" data-toggle="collapse" data-target="#fuel">FUEL</div>
+                <div id="fuel" class="collapse in ">
+                    <a href="" >Petrol</a>
+                    <a href="" >Electric</a>
+            </div>
+        <!------------------------------Filter section end -------------------------->
+        <!------------------------------Iteam section start ------------------------->    
             <div class="iteamcont">
                 
                 <div class="container">
@@ -28,15 +104,22 @@
                 <div class="container">
         
                 </div>
-                   
+                <div class="container">
+        
+                </div>
+                <div class="container">
+        
+                </div>
+                <div class="container">
+        
+                </div>
+                      
             </div>
-
-            
+        <!-------------------------------Iteam sectin end ---------------------------->    
         </div>
-      
-
     </body>
 
+        <!-------------------------------Footer section ------------------------------>
     <footer>
         
         <div id="footcontainer">
@@ -67,18 +150,15 @@
     
             <div class="followcont">
                 <h4>FOLLOW US</h4>
-                <a href="https://www.facebook.com/snaithani3/" target="_blank"><i class="fa-brands fa-facebook facebook"></i></a>
+                <a href="https://www.facebook.com/snaithanh4/" target="_blank"><i class="fa-brands fa-facebook facebook"></i></a>
                 <a href="https://www.instagram.com/gunjan.naithani/"  target="_blank"> <i class="fa-brands fa-instagram instagram"></i></a>
                 <a href="https://github.com/Gunjannaithani/" target="_blank"><i class="fa-brands fa-github github"></i></a>
             </div>
             
             <div class="developer">
-                <h2> &copy Developer Funnel</h2>
+                <h4> &copy Developer Funnel</h4>
             </div>
             
-        </div>
-    
-       
-
+        </div>      
     </footer>
 </html>
