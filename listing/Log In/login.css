@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    color: indigo !important;
 }
 
 #user{
@@ -9,7 +9,11 @@ body{
     border-radius: 50%;
     position: absolute;
     margin-left: 11%;
-    margin-top: -5%;
+}
+
+.fa-solid{
+    margin:29% 33%;
+    font-size: xxx-large;
 }
 
 input{
@@ -22,8 +26,32 @@ input{
 #logincont{
     width: 400px;
     height: 500px;
-    box-shadow: 2px 2px 2px;
+    box-shadow: 2px 4px 10px;;
     background-color: white;
     margin-left: 33%;
     margin-top: 6%;
+}
+
+#login-header{
+    padding: 120px 155px 15px;
+
+}
+
+#login-form{
+    padding-top: 7%;
+    padding-left: 15%;
+}
+
+#username-field{
+    margin:0 0 10px;
+}
+
+#password-field{
+    margin:0 0 10px;
+}
+
+.glyphicon{
+    margin-top: 20%;
+    margin-left: 80%;
+    font-size: 20px;
 }
