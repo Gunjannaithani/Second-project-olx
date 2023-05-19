@@ -1,0 +1,134 @@
+body{
+    margin:auto;
+
+}
+
+/*header*/
+.update{
+    background-color: #2c2cc1cf !important;
+    border: none !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff !important;
+}
+
+
+#imgcontainer{
+   height: 400px;
+   background-color: black;
+}
+
+.carousel-inner{
+    height: 400px;
+    width: 50% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name{
+    width: 55%;
+    margin-left: 3%;
+    margin-top: 2%;
+    display: inline-block;
+    box-shadow: 2px 2px 5px;
+    padding: 1 2% 2%;
+}
+
+._1a{
+    display:flex;
+}
+
+._1aa,._1ab,._1ac{
+    letter-spacing: .80px;
+    border-left: 1px solid black;
+    padding: 0 10px 0;
+}
+
+.price{
+    width: 35%;
+    margin-left: 3%;
+    margin-top: 2%;
+    display: inline-block;
+    font-size: 60px;
+    box-shadow: 2px 2px 5px;
+    padding-left: 6%;
+}
+
+.Overview{
+    width: 55%;
+    margin-left: 3%;
+    margin-top: 2%;
+    box-shadow: 2px 2px 5px;
+    padding: 1 2% 2%;
+}
+
+.a2{
+    border-bottom: 1px solid black;
+}
+
+._2a{
+    display: flex;
+}
+
+._2aa,._2ab,._2ac{
+    letter-spacing: .80px;
+    padding: 0 10px 0;
+    display: block;
+
+}
+
+.Description{
+    width: 55%;
+    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    box-shadow: 2px 2px 5px;
+    padding: 1 2% 2%;
+}
+
+.a3{
+    border-bottom: 1px solid black;
+}
+
+/*footer*/
+
+#footcontainer{
+    width:100%;
+    background-color: mintcream;
+}
+
+.popularcont , .trendingcont , .aboutcont{
+    Width:20%;
+    display: inline-block;
+}
+
+.followcont{
+    Width:39%;
+    text-align: center;
+    display: inline-block;
+}
+
+h4{
+    margin-left: 15px;
+    font-family: system-ui !important;
+}
+
+.popularcont>p, .trendingcont>p, .aboutcont>p{
+    margin-left: 15px;
+}
+
+.facebook, .instagram, .github{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.developer{
+   
+}
+
+
+.Developer>h2{
+    font-size: 15px !important;
+    text-align: right;
+}
